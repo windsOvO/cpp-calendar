@@ -1,0 +1,4 @@
+/Users/windsovo/Documents/cpp/大作业/cpp_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/windsovo/Documents/cpp/大作业/cpp_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/windsovo/Documents/cpp/大作业/cpp_project/cmake-build-debug/CMakeFiles/cpp_project.dir
+/Users/windsovo/Documents/cpp/大作业/cpp_project/cmake-build-debug/CMakeFiles/cpp_project_autogen.dir
